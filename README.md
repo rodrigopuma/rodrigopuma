@@ -18,6 +18,7 @@ Sou um **Jovem Aprendiz** apaixonado por áreas como **Inteligência Artificial*
 ### 📚 Alguns dos meus projetos
 
 - **[Sistema de Login](https://github.com/rodrigopuma/sistema_login)**: API simples em Python que implementa um sistema de login.
+- **[Hackaton Organiza Infinity](https://github.com/rodrigopuma/hackaton_infinity)**: Projeto hackaton do meu curso de programação.
 
 ### ⚡ Fatos rápidos
 
