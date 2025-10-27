@@ -34,7 +34,7 @@ Aqui estão alguns projetos que me orgulho de ter desenvolvido. Dê uma olhada!
 
 ### 🐍 Minha Cobrinha de Contribuições
 
-[![Snake animation](https://github.com/rodrigopuma/rodrigopuma/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/rodrigopuma/rodrigopuma/blob/output/github-contribution-grid-snake-dark.svg)
+[![Snake animation](https://raw.githubusercontent.com/rodrigopuma/rodrigopuma/output/github-contribution-grid-snake-dark.svg)](https://github.com/rodrigopuma/rodrigopuma/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
