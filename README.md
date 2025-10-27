@@ -1,40 +1,47 @@
-# Olá, eu sou Rodrigo Puma, seja bem-vindo(a) ao meu perfil! 👋
+[![Texto animado de apresentação](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+meu+nome+é+Rodrigo+Puma!;Desenvolvedor+Backend;Transformando+códigos+em+Soluções.)](https://github.com/rodrigopuma)
 
-### Sobre mim
-
-Sou um **Jovem Aprendiz** apaixonado por áreas como **Inteligência Artificial**, **Dados** e **Cloud**. Atualmente, estou me aprofundando em **Python** e sempre buscando aprender mais sobre o mundo da tecnologia. Meu foco agora é aplicar meus conhecimentos em projetos práticos e continuar me aprimorando, principalmente no desenvolvimento de sistemas e back-end.
-
-### 🌱 O que estou aprendendo
-
-- **Python**: Aperfeiçoando minhas habilidades com essa linguagem.
-- **Cloud**: Explorando soluções em nuvem para melhorar a escalabilidade e eficiência de sistemas.
-
-### 💼 Onde me encontrar
-
-- 📧 [E-mail](mailto:rodrigopuma.dev@outlook.com)
-- 🐦 [Instagram](https://instagram.com/rodrigopumaa_)
-- 🌐 [LinkedIn](https://linkedin.com/in/rodrigopuma)
-
-### 📚 Alguns dos meus projetos
-
-- **[Sistema de Login](https://github.com/rodrigopuma/sistema_login)**: API simples em Python que implementa um sistema de login.
-- **[Hackaton Organiza Infinity](https://github.com/rodrigopuma/hackaton_infinity)**: Projeto hackaton do meu curso de programação.
-
-### ⚡ Fatos rápidos
-
-- 🔭 Atualmente, estou trabalhando em uma API de **sistema de login** com **Python**.
-- 🌱 Em constante aprendizado sobre **Python** e **Cloud**.
-- 🤔 Estou aberto a colaborar em projetos de **back-end** e **desenvolvimento de sistemas**.
-- 📫 Você pode me contatar pelo e-mail: [rodrigopuma.dev@outlook.com](mailto:rodrigopuma.dev@outlook.com).
+<br>
 
 ---
 
-### 🎉 GitHub Stats
+### ⚡ Sobre Mim
 
-![Gráfico de Contribuições](https://github-readme-stats.vercel.app/api?username=rodrigopuma&show_icons=true&count_private=true&hide=prs&theme=dark)
+Sou um desenvolvedor Back-end apaixonado por criar soluções eficientes, inovadoras e escaláveis. Atualmente, estou me aprofundando em Python e suas tecnologias. Estou sempre buscando aprender novas ferramentas e metodologias para construir soluções inovadoras.
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodrigopuma&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/rodrigopuma)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopuma&layout=compact&langs_count=7&theme=dracula)](https://github.com/rodrigopuma)
+
+---
+
+### 🛠️ Minhas Ferramentas e Tecnologias
+
+[![Habilidades](https://skillicons.dev/icons?i=python,django,javascript,mysql,postgresql,git&perline=6)](https://skillicons.dev/icons?i=python,django,javascript,mysql,postgresql,git&perline=6)
+
+---
+
+### 🚀 Projetos em Destaque
+
+Aqui estão alguns projetos que me orgulho de ter desenvolvido. Dê uma olhada!
+
+[![Card do Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=rodrigopuma&repo=hackaton_infinity&theme=dracula&show_owner=true)](https://github.com/rodrigopuma/hackaton_infinity)
+[![Card do Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=Non-entityy&repo=Projeto-CRUD-Softex-&theme=dracula&show_owner=true)](https://github.com/Non-entityy/Projeto-CRUD-Softex-)
+
+---
+
+### 🐍 Minha Cobrinha de Contribuições
+
+[![Snake animation](https://github.com/rodrigopuma/rodrigopuma/raw/output/github-contribution-grid-snake-dark.svg)](https://github.com/rodrigopuma/rodrigopuma/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
 ### 🤝 Vamos Conectar!
 
-Se você está interessado(a) em saber mais sobre mim ou quer trocar ideias sobre tecnologia, estou super aberto(a) para conversar e colaborar em projetos! Não hesite em me chamar para qualquer oportunidade ou parceria.
+Se você se interessou pelo meu trabalho, quer trocar ideias sobre tecnologia ou pensar em alguma colaboração, não hesite em me chamar! Estou sempre aberto para conversar e criar algo incrível juntos.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkendin.com/in/rodrigopuma)
+[![E-mail](https://img.shields.io/badge/E--mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rodrigopuma.dev@outlook.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rodrigopuma)
