@@ -27,7 +27,7 @@ Sou um desenvolvedor Back-end apaixonado por criar soluções eficientes, inovad
 
 Aqui estão alguns projetos que me orgulho de ter desenvolvido. Dê uma olhada!
 
-[![Card do Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=rodrigopuma&repo=hackaton_infinity&theme=dracula&show_owner=true)]([https://github.com/SortSync/hackaton_infinity](https://github.com/SortSync/hackaton_infinity))
+[![Card do Projeto 1](https://github-readme-stats.vercel.app/api/pin/?username=SortSync&repo=hackaton_infinity&theme=dracula&show_owner=true)]([https://github.com/SortSync/hackaton_infinity](https://github.com/SortSync/hackaton_infinity))
 [![Card do Projeto 2](https://github-readme-stats.vercel.app/api/pin/?username=Non-entityy&repo=Projeto-CRUD-Softex-&theme=dracula&show_owner=true)](https://github.com/Non-entityy/Projeto-CRUD-Softex-)
 
 ---
